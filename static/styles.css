@@ -1,0 +1,40 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.name{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.name h1{
+    color: rgb(45, 105, 105);
+}
+
+.name h4{
+    color: chocolate;
+}
+
+.name table{
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.name table th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.name table th{
+    background-color: whitesmoke;
+    color: rgb(67, 61, 100);
+}
